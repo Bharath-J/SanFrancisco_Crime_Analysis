@@ -1,4 +1,4 @@
-# San Francisco Crime Analysis
+# San Francisco Crime Data Analysis
 
 ## Objective:
 This project deals with identifying common data quality issues found in publicly available datasets.
